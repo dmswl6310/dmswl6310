@@ -1,4 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD1CF,100:FF7DA4&height=225&section=header&text=welcome&fontColor=fff&fontSize=76&fontAlign=69&fontAlignY=41&desc=Frontend-Engineer&descSize=20&descAlign=87&descAlignY=59)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:80FFFD,100:C6BAFF&height=300&section=header&text=Welcome&fontColor=fff&fontSize=90&fontAlignY=41&desc=Frontend-Engineer&descSize=20&descAlign=87&descAlignY=59)
+
+<img src="https://capsule-render.vercel.app/api?
+  type=waving&
+  color=random&
+  height=300&
+  section=header&
+  text=Hi%20there👋&
+  fontSize=90" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
+![header](https://capsule-render.vercel.app/api?
+type=waving&
+color=auto&
+height=300&
+section=header&
+text=capsule%20render&
+fontSize=90&
+animation=fadeIn&
+fontAlignY=38&
+desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&
+descAlignY=51&
+descAlign=62)
 
 ### Hi there 👋  
 - 🔮 `Junior` frontend engineer
