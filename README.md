@@ -1,34 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:80FFFD,100:C6BAFF&height=300&section=header&text=Welcome&fontColor=fff&fontSize=90&fontAlignY=41&desc=Frontend-Engineer&descSize=20&descAlign=87&descAlignY=59)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83e6eb,100:C6BAFF&height=300&section=header&text=Welcome%20:>&fontColor=fff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=to%20my%20Git%20Repository!&descSize=20&descAlign=65&descAlignY=52)
 
-<img src="https://capsule-render.vercel.app/api?
-  type=waving&
-  color=random&
-  height=300&
-  section=header&
-  text=Hi%20there👋&
-  fontSize=90" />
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
-
-![header](https://capsule-render.vercel.app/api?
-type=waving&
-color=auto&
-height=300&
-section=header&
-text=capsule%20render&
-fontSize=90&
-animation=fadeIn&
-fontAlignY=38&
-desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&
-descAlignY=51&
-descAlign=62)
-
-### Hi there 👋  
+### 👋 Hi there  
 - 🔮 `Junior` frontend engineer
 - 😄 I am: `careful`, `responsible` and `curious`
 - 😎 Hobby: `climbing` and `listening to music`
 - 📫 [dmswl6310@gmail.com](dmswl6310@gmail.com)
 
+### :rocket: Skills
 
 <!--
 **dmswl6310/dmswl6310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
