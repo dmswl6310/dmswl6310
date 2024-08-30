@@ -7,7 +7,7 @@
 - 📫 [dmswl6310@gmail.com](dmswl6310@gmail.com)
 
 ### :rocket: Skills
-- ⚡ React, Typescript, JAVA
+- ⚡ `React`, `Typescript` and `JAVA`
   
 <!--
 **dmswl6310/dmswl6310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
